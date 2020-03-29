@@ -1,9 +1,5 @@
-# Sellgo-Assignment
-
-# Please run following commands in directory to run the project:
-<br>
+Please run following commands in directory to run the project:
 <br>
 npm install
-<br>
 <br>
 npm start
